@@ -1,12 +1,12 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and welcome to the AP - July 2021 edition of the IBM CP4BA Tech Jam. 
+Hello and welcome to the AP - July 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
 The agenda for the Jam is available [here]().
 
 ## Labs
 
-The [README.md](Labs/README.md) file contains details of each lab, the system URLs, login instructions & badges.
+The list of all labs, system URLs, login instructions & badges are available [here](Labs/README.md).
 
 ## Presentations and Recordings
 
