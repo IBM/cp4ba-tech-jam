@@ -6,11 +6,11 @@ The agenda for the Jam is available [here]().
 
 ## Labs
 
-The list of all labs, system URLs, login instructions & badges are available [here](Labs/README.md).
+The list of all labs, system URLs, login instructions & badges are available [here](/Labs.md).
 
 ## Presentations and Recordings
 
-Presentations and recordings made during the Jam are available [here](Presentations%20%26%20Recordings/).
+A link to the presentations and recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C023CNSELTY) Salck channel.
 
 ## DIY ROKS Cluster
 
