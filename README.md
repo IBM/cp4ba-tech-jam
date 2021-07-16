@@ -1,8 +1,8 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and welcome to the AP - July 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and welcome to the APAC - July 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The agenda for the Jam is available [here]().
+The agenda for the Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/July%202021/%5BCP4BA%20Tech%20Jam%202021.07.20%5D%20APAC%20Agenda.pdf).
 
 ## Labs
 
