@@ -6,7 +6,7 @@ The agenda for the Jam is available [here](https://github.com/IBM/cp4ba-tech-jam
 
 ## Labs
 
-The list of all labs, system URLs, login instructions & badges are available [here](/Labs.md).
+To access the labs, please go to the [labs folder](https://github.com/IBM/cp4ba-labs/) and select the capability you are interested to learn more about. The [Labs.md](/Labs.md) file contains additional details like the system URLs, login instructions & badges.
 
 ## Presentations and Recordings
 
