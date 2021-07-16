@@ -12,8 +12,6 @@ The list of all labs, system URLs, login instructions & badges are available [he
 
 A link to the presentations and recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C023CNSELTY) Salck channel.
 
-2. https://github.com/IBM/cp4ba-labs)
-
 ## Support
 
 For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C023CNSELTY) Slack channel.
