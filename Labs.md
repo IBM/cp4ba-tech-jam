@@ -21,7 +21,7 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 Most labs require you to access one or more systems set up specifically for the Jam. 
 
-The easiest way to access these is to import the bookmarks into your browser using [this bookmarks file](Bookmarks.html). You can import this file into Chrome or Firefox using the default import bookmarks mechanisms for each browser. After the import is complete, you can use the "EMEA Jam" folder in your bookmarks to access the required systems.
+The easiest way to access these is to import the bookmarks into your browser using [this bookmarks file](https://github.com/IBM/cp4ba-labs/blob/main/Bookmarks.html). You can import this file into Chrome or Firefox using the default import bookmarks mechanisms for each browser. After the import is complete, you can use the "EMEA Jam" folder in your bookmarks to access the required systems.
 
 You can optionally access the systems using the links below:
 
