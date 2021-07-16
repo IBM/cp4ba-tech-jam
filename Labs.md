@@ -25,24 +25,19 @@ The easiest way to access these is to import the bookmarks into your browser usi
 
 You can optionally access the systems using the links below:
 
-- Client Onboarding Desktop
+- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/navigator/?desktop=ClientOnboarding)
 
-- IBM Business Automation Studio
+- [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/BAStudio)
 
-- ADS ML Service
+- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
 
-- IBM Business Performance Center (BPC)
-
-- IBM Mobile Capture Server
-
-  ![](amc-qrcode.png)
-
+- [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
 ## Login Credentials
 
-To access the systems in the Jam ROKS cluster, you will need a username and password. You can retrieve your unique credentials using the chatbot (built using IBM RPA) here.
+To access the systems in the Jam ROKS cluster, you will need a username and password. You can retrieve your unique credentials using the chatbot (built using IBM RPA) [here](http://159.122.122.170/UserManagement/).
 
 **Note:** For labs that require you to access systems outside the Jam infrastucture, the lab document will specify separate login credentials.
 
