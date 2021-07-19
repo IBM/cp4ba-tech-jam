@@ -10,11 +10,11 @@ To access the labs, please go to the [labs folder](https://github.com/IBM/cp4ba-
 
 ## Presentations and Recordings
 
-A link to the presentations and recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C023CNSELTY) Salck channel.
+A link to the presentations and recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C027WKQMWTZ) Salck channel.
 
 ## Support
 
-For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C023CNSELTY) Slack channel.
+For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C027WKQMWTZ) Slack channel.
 
 ## Survey
 
