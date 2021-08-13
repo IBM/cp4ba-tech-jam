@@ -10,7 +10,8 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 
 ## Presentations and Recordings
 
-A link to the presentations and recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C027WKQMWTZ) Slack channel.
+Presentations shown during the Jam are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/August%202021). 
+A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C027WKQMWTZ) Slack channel.
 
 ## Support
 
