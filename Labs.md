@@ -19,19 +19,15 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 ## System URLs
 
-Most labs require you to access one or more systems set up specifically for the Jam. 
+Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
 
-The easiest way to access these is to import the bookmarks into your browser using [this bookmarks file](https://github.com/IBM/cp4ba-labs/blob/main/Bookmarks.html). You can import this file into Chrome or Firefox using the default import bookmarks mechanisms for each browser. After the import is complete, you can use the "EMEA Jam" folder in your bookmarks to access the required systems.
+- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
 
-You can optionally access the systems using the links below:
+- [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/BAStudio)
 
-- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/navigator/?desktop=ClientOnboarding)
+- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
 
-- [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/BAStudio)
-
-- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
-
-- [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
+- [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 

@@ -1,8 +1,8 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and welcome to the APAC - July 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and welcome to the Americas - August 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The agenda for the Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/July%202021/%5BCP4BA%20Tech%20Jam%202021.07.20%5D%20APAC%20Agenda.pdf).
+The agenda for the Jam is available [here]().
 
 ## Labs
 
@@ -26,8 +26,8 @@ You can access the survey [here](https://www.surveymonkey.com/r/CP4BATechJam2021
 
 ## DIY ROKS Cluster
 
-If you want to setup your own ROKS cluster with the Client Onboarding scenario, you can will need to do the following:
+If you want to setup your own ROKS cluster with the Client Onboarding scenario, you will need to do the following:
 
-1. [Install IBM Cloud Pak 4 Business Automation on a ROKS cluster](https://github.com/IBM/cp4ba-rapid-deployment)
+1. [Install IBM Cloud Pak for Business Automation on a ROKS cluster](https://github.com/IBM/cp4ba-rapid-deployment)
 2. [Import the Client Onboarding scenario](https://github.com/IBM/cp4ba-client-onboarding-scenario)
 
