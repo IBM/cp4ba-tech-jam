@@ -2,7 +2,7 @@
 
 Hello and welcome to the Americas - August 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The agenda for the Jam is available [here]().
+The agenda for the Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/August%202021/%5BCP4BA%20Tech%20Jam%202021.08.17%5D%20Americas%20Agenda.pdf).
 
 ## Labs
 
