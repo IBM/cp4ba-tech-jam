@@ -17,7 +17,7 @@ To earn a badge for a specific capability, you must complete all labs for it and
 | [IBM Robotic Process Automation](https://github.com/IBM/cp4ba-labs/tree/main/Robotic%20Process%20Automation) |      3-4 hours       |                 Yes                 | [Badge](https://www.credly.com/org/ibm/badge/ibm-robotic-process-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9356) |
 | [Workflow](https://github.com/IBM/cp4ba-labs/tree/main/Workflow) |      5-6 hours       |                 Yes                 | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) |
 
-## System URLs
+## System URLs for EMEA Jam
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
 
@@ -28,6 +28,18 @@ Most labs require you to access one or more systems set up specifically for the 
 - [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
 
 - [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
+
+## System URLs for GCG Jam
+
+Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
+
+- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
+
+- [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/BAStudio)
+
+- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud)
+
+- [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud)
 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
