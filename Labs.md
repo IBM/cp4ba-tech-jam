@@ -29,6 +29,8 @@ Most labs require you to access one or more systems set up specifically for the 
 
 - [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
 
+**Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
+
 ## System URLs for GCG Jam
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
