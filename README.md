@@ -4,7 +4,7 @@ Hello and welcome to the EMEA and GCG - September 2021 edition of the IBM Cloud 
 
 The agenda for the EMEA Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/August%202021/%5BCP4BA%20Tech%20Jam%202021.08.17%5D%20Americas%20Agenda.pdf).
 
-The agenda for the GCG Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.08.17%5D%20Americas%20Agenda.pdf).
+The agenda for the GCG Jam is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.09.16%5DGCG%20Agenda.pdf).
 
 ## Labs
 
