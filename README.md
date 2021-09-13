@@ -16,11 +16,11 @@ Presentations shown during the **EMEA Jam** are available [here](https://github.
 
 Presentations shown during the **GCG Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/Sept%202021)
 
-A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02B4DS34MU) Slack channel.
+A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02EXAGL588) Slack channel.
 
 ## Support
 
-For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02B4DS34MU) Slack channel.
+For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02EXAGL588) Slack channel.
 
 ## Survey
 
