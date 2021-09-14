@@ -29,6 +29,10 @@ Most labs require you to access one or more systems set up specifically for the 
 
 - [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud)
 
+- [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/acce)
+
+- [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/content-services-graphql)
+
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
 ## System URLs for GCG Jam
@@ -43,6 +47,10 @@ Most labs require you to access one or more systems set up specifically for the 
 
 - [IBM Business Performance Center (BPC)](https://business-performance-center.bai.ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud)
 
+- [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/acce)
+
+- [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/content-services-graphql)
+- 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
 ## Login Credentials
