@@ -35,7 +35,25 @@ Most labs require you to access one or more systems set up specifically for the 
 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
-## System URLs for GCG Jam
+## System URLs for APAC Jam
+
+Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
+
+- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
+
+- [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/BAStudio)
+
+- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
+
+- [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
+
+- [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/acce)
+
+- [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/content-services-graphql)
+ 
+**Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
+
+## System URLs for Americas Jam
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can  access the systems using the links below:
 
@@ -50,8 +68,9 @@ Most labs require you to access one or more systems set up specifically for the 
 - [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/acce)
 
 - [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/content-services-graphql)
-- 
+ 
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
+
 
 ## Login Credentials
 
