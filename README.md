@@ -4,7 +4,9 @@ Hello and welcome to the EMEA and GCG - September 2021 edition of the IBM Cloud 
 
 The agenda for the **EMEA Jam** is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.09.14%5D%20EMEA%20Agenda.pdf).
 
-The agenda for the **GCG Jam** is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.09.16%5DGCG%20Agenda.pdf).
+The agenda for the **APAC Jam** is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.09.16%5DGCG%20Agenda.pdf).
+
+The agenda for the **Americas Jam** is available [here](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/Sept%202021/%5BCP4BA%20Tech%20Jam%202021.09.16%5DGCG%20Agenda.pdf).
 
 ## Labs
 
@@ -15,6 +17,8 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 Presentations shown during the **EMEA Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/Sept%202021). 
 
 Presentations shown during the **GCG Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/Sept%202021)
+
+Presentations shown during the **Americas Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/Sept%202021). 
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02EXAGL588) Slack channel.
 
