@@ -33,6 +33,8 @@ Most labs require you to access one or more systems set up specifically for the 
 
 - [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/content-services-graphql)
 
+- [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/processmining/index.html)
+
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
 ## System URLs for APAC Jam
@@ -50,6 +52,8 @@ Most labs require you to access one or more systems set up specifically for the 
 - [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/acce)
 
 - [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/content-services-graphql)
+
+- [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/processmining/index.html)
  
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
@@ -68,7 +72,9 @@ Most labs require you to access one or more systems set up specifically for the 
 - [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/acce)
 
 - [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.seo01.containers.appdomain.cloud/content-services-graphql)
- 
+
+- [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/processmining/index.html)
+
 **Note:** Some labs may require you to access an environment in Asset Repo instead of the Jam infrastructure. If that is the case, the lab will specify instructions on how to access that environment.
 
 
