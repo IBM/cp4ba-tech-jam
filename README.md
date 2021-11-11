@@ -16,7 +16,7 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 
 Presentations shown during the **EMEA Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/Sept%202021). 
 
-Presentations shown during the **APAC Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/Sept%202021)
+Presentations shown during the **APAC Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/November%202021)
 
 Presentations shown during the **Americas Jam** are available [here](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/Sept%202021). 
 
