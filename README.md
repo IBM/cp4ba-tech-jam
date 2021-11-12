@@ -5,16 +5,18 @@ Hello and welcome to the Worldwide - November 2021 edition of the IBM Cloud Pak 
 
 The agenda for each geo is available here:
 
-| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](Presentations%20%26%20Recordings/EMEA/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20%26%20Recordings/Americas/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20Americas%20Agenda.pdf) |
+| [APAC Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/APAC/November 2021/[CP4BA Tech Jam 2021.11.16] APAC Agenda.pdf) | [EMEA Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/EMEA/November 2021/[CP4BA Tech Jam 2021.11.16] EMEA Agenda.pdf) | [Americas Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/Americas/November 2021/[CP4BA Tech Jam 2021.11.16] Americas Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 ## Labs
 
 To access the labs, please go to the [Labs.md](/Labs.md) file and select the capability you are interested to learn more about. The file also contains additional details like the system URLs, login instructions & badges.
 
 ## Presentations and Recordings
 
-| [APAC Recordings](Presentations%20%26%20Recordings/APAC/November%202021) | [EMEA Recordings](/Presentations%20%26%20Recordings/EMEA/November%202021) | [Americas Recordings](Presentations%20%26%20Recordings/Americas/November%202021) |
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/APAC/November 2021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/EMEA/November 2021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/Americas/November 2021) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02LMFX8XHA) Slack channel.
 
 ## Support
