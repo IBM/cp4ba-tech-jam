@@ -5,7 +5,7 @@ Hello and welcome to the Worldwide - November 2021 edition of the IBM Cloud Pak 
 
 The agenda for each geo is available here:
 
-| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/November%202021/APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/November%202021/EMEA%20Agenda.pdf) | [Americas Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/November%202021/Americas%20Agenda.pdf) |
+| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20%26%20Recordings/Americas/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Labs
