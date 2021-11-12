@@ -5,7 +5,7 @@ Hello and welcome to the Worldwide - November 2021 edition of the IBM Cloud Pak 
 
 The agenda for each geo is available here:
 
-| [APAC Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/APAC/November 2021/[CP4BA Tech Jam 2021.11.16] APAC Agenda.pdf) | [EMEA Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/EMEA/November 2021/[CP4BA Tech Jam 2021.11.16] EMEA Agenda.pdf) | [Americas Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/Americas/November 2021/[CP4BA Tech Jam 2021.11.16] Americas Agenda.pdf) |
+| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/November%202021/APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/November%202021/EMEA%20Agenda.pdf) | [Americas Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/November%202021/Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Labs
@@ -14,7 +14,7 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 
 ## Presentations and Recordings
 
-| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/APAC/November 2021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/EMEA/November 2021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations %26 Recordings/Americas/November 2021) |
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/November 2021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/November 2021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/November 2021) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02LMFX8XHA) Slack channel.
