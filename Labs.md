@@ -22,14 +22,16 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can access the systems using the links below:
 
-| APAC                                                         | EMEA                                                         | Americas                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/navigator?desktop=ClientOnboarding) | [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/navigator?desktop=ClientOnboarding) | [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/navigator/?desktop=ClientOnboarding) |
-| [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/BAStudio) | [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/BAStudio) | [IBM Business Automation Studio](https://bas-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/BAStudio) |
-| [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud) | [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud) | [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud) |
-| [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud) | [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/) | [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/) |
-| [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/acce) | [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/acce) | [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/acce) |
-| [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/content-services-graphql) | [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-emea2-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/content-services-graphql) | [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/content-services-graphql) |
+**Note:** The systems links will be available when there is an active Tech Jam.
+
+| APAC                                  | EMEA                                  | Americas                              |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| Client Onboarding Desktop             | Client Onboarding Desktop             | Client Onboarding Desktop             |
+| IBM Business Automation Studio        | IBM Business Automation Studio        | IBM Business Automation Studio        |
+| ADS ML Service                        | ADS ML Service                        | ADS ML Service                        |
+| IBM Business Performance Center (BPC) | IBM Business Performance Center (BPC) | IBM Business Performance Center (BPC) |
+| IBM Content Platform Engine ACCE      | IBM Content Platform Engine ACCE      | IBM Content Platform Engine ACCE      |
+| IBM Content Services GraphQL          | IBM Content Services GraphQL          | IBM Content Services GraphQL          |
 
 ## Login Credentials
 
