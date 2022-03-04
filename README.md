@@ -1,12 +1,12 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
 
-Hello and welcome to the Worldwide - November 2021 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and welcome to the Americas - March 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
 The agenda for each geo is available here:
 
-| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/November%202021/%5BCP4BA%20Tech%20Jam%202021.11.16%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20&%20Recordings/Americas/March%202022/%5BCP4BA%20Tech%20Jam%202022.03.08%5D%20Americas%20Agenda.pdf) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Americas Agenda](/Presentations%20&%20Recordings/Americas/March%202022/%5BCP4BA%20Tech%20Jam%202022.03.08%5D%20Americas%20Agenda.pdf) |
+------------------------------------------------------------ |
 
 ## Labs
 
@@ -17,17 +17,17 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 | [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/November%202021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/November%202021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/November%202021) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02LMFX8XHA) Slack channel.
+A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0354GE09BR) Slack channel.
 
 ## Support
 
-For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C02LMFX8XHA) Slack channel.
+For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0354GE09BR) Slack channel.
 
 ## Survey
 
 At the end of the Jam, please take 5 minutes to complete the survey. This will help us for future Jams as well as get feedback on the different capabilities.
 
-You can access the survey [here](https://www.surveymonkey.com/r/CP4BATechJam2021) or using the QR code below:
+You can access the survey [here](https://www.surveymonkey.com/r/CP4BATechJam2022) or using the QR code below:
 
 ![Survey QR Code](survery-qrcode.png)
 
