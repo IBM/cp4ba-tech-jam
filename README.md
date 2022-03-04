@@ -14,7 +14,7 @@ To access the labs, please go to the [Labs.md](/Labs.md) file and select the cap
 
 ## Presentations and Recordings
 
-| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/November%202021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/November%202021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/November%202021) |
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/November%202021) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/November%202021) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/March%202022) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0354GE09BR) Slack channel.
