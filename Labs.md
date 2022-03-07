@@ -32,6 +32,7 @@ Most labs require you to access one or more systems set up specifically for the 
 | IBM Business Performance Center (BPC) | IBM Business Performance Center (BPC) | IBM Business Performance Center (BPC) |
 | IBM Content Platform Engine ACCE      | IBM Content Platform Engine ACCE      | IBM Content Platform Engine ACCE      |
 | IBM Content Services GraphQL          | IBM Content Services GraphQL          | IBM Content Services GraphQL          |
+| IBM Content Navigator CLOS Desktop    | IBM Content Navigator CLOS Desktop    | IBM Content Navigator CLOS Desktop    |
 
 ## Login Credentials
 
