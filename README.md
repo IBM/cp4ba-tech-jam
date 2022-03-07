@@ -29,7 +29,7 @@ At the end of the Jam, please take 5 minutes to complete the survey. This will h
 
 You can access the survey [here](https://www.surveymonkey.com/r/CP4BATechJam2022) or using the QR code below:
 
-![Survey QR Code](survery-qrcode.png)
+![Survey QR Code](QR_code_CP4BATechJam2022.png)
 
 ## DIY ROKS Cluster
 
