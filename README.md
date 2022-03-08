@@ -10,7 +10,7 @@ The agenda for each geo is available here:
 
 ## Labs
 
-To access the labs, please go to the [Labs.md](/Labs.md) file and select the capability you are interested to learn more about. The file also contains additional details like the system URLs, login instructions & badges.
+You can [access the labs, system URLs, login instructions and badges here](/Labs.md). You can select the capability you are interested to learn more about on that page.
 
 ## Presentations and Recordings
 
@@ -27,7 +27,7 @@ For any questions, comments and feedback please go to the [#cp4ba-tech-jam-main-
 
 At the end of the Jam, please take 5 minutes to complete the survey. This will help us for future Jams as well as get feedback on the different capabilities.
 
-You can access the survey [here](https://www.surveymonkey.com/r/CP4BATechJam2022) or using the QR code below:
+You can [access the survey here](https://www.surveymonkey.com/r/CP4BATechJam2022) or using the QR code below:
 
 ![Survey QR Code](survey-qrcode.png)
 
