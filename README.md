@@ -1,9 +1,9 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
 
-Hello and welcome to the Americas - March 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and welcome to the APAC - March 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The agenda for each geo is available here:
+The agenda is available here:
 
 | [APAC Agenda](/Presentations%20%26%20Recordings/APAC/March%202022/%5BCP4BA%20Tech%20Jam%202022.03.29%5D%20APAC%20Agenda.pdf) |
 ------------------------------------------------------------ |
