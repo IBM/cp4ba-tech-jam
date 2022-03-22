@@ -32,4 +32,4 @@ Most labs require you to access one or more systems set up specifically for the 
 
 ## Login Credentials
 
-To access the systems in the Jam ROKS cluster, you will need a username and password. You can [retrieve your unique credentials using the chatbot (built using IBM RPA) here](http://).
+To access the systems in the Jam ROKS cluster, you will need a username and password. You can [retrieve your unique credentials here](http://159.122.122.170:8080/UserManagement).
