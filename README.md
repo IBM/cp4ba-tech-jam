@@ -14,7 +14,7 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 
 ## Presentations and Recordings
 
-| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/March%202022) 
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/March%202022) 
 | ------------------------------------------------------------ | 
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0354GE09BR) Slack channel.
