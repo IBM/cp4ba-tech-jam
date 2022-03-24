@@ -1,11 +1,11 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
 
-Hello and welcome to the Americas - March 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and welcome to the APAC - March 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The agenda for each geo is available here:
+The agenda is available here:
 
-| [Americas Agenda](/Presentations%20&%20Recordings/Americas/March%202022/%5BCP4BA%20Tech%20Jam%202022.03.08%5D%20Americas%20Agenda.pdf) |
+| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/March%202022/%5BCP4BA%20Tech%20Jam%202022.03.29%5D%20APAC%20Agenda.pdf) |
 ------------------------------------------------------------ |
 
 ## Labs
@@ -14,7 +14,7 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 
 ## Presentations and Recordings
 
-| [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/Americas/March%202022) 
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/March%202022) 
 | ------------------------------------------------------------ | 
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0354GE09BR) Slack channel.
