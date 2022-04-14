@@ -4,8 +4,8 @@ Hello and welcome to the Americas - April 2022 edition of the IBM Cloud Pak for 
 
 The agenda is available here:
 
-| [Americas Agenda](/Presentations%20%26%20Recordings/Americas/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.19%5D%20APAC%20Agenda.pdf) |
-| ------------------------------------------------------------ |
+| [Americas Agenda](/Presentations%20%26%20Recordings/Americas/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.19%5D%Americas%20Agenda.pdf) |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Labs
 
