@@ -2,7 +2,7 @@
 
 ## Overview
 
-The table below lists all capabilties that we currently have labs for. A capability may contain one or more labs depending on the complexity. It is recommended that during the Jam, you prioritize the capabilties that you are interested in and the ones that depend on the Jam infrastructure.
+The table below lists all capabilities that we currently have labs for. A capability may contain one or more labs depending on the complexity. It is recommended that during the Jam, you prioritize the capabilities that you are interested in and the ones that depend on the Jam infrastructure.
 
 To earn a badge for a specific capability, you must complete all labs for it and answer the quiz linked in the table below.
 
@@ -22,13 +22,13 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can access the systems using the links below:
 
-- [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)
-- [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/)
-- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud)
-- [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/icn/navigator/?desktop=BAI)
-- [IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/cpe/acce/)
-- [IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/content-services-graphql/)
-- [IBM Content Navigator CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.che01.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)
+- [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
+- [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/)
+- [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud)
+- [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/)
+- [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/acce)
+- [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/content-services-graphql)
+- [IBM Content Navigator CLOS Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=CLOS)
 
 ## Login Credentials
 
