@@ -27,7 +27,7 @@ Most labs require you to access one or more systems set up specifically for the 
 - [IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/)
 - [IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/acce)
 - [IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/content-services-graphql)
-# - [IBM Content Navigator CLOS Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=CLOS)
+<!-- - [IBM Content Navigator CLOS Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=CLOS) -->
 
 ## Login Credentials
 
