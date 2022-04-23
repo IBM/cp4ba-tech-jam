@@ -13,8 +13,8 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 
 ## Presentations and Recordings
 
-| [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/April%202022) |
-| ------------------------------------------------------------ |
+| [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/April%202022) | [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/April%202022) | [EMEA Recordings]()|
+| ------------------------------------------------------------ | -------- | ------ |
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C03BNA8A8H4) Slack channel.
 
