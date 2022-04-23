@@ -21,8 +21,8 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 Most labs require you to access one or more systems set up specifically for the Jam. You can access the systems using the links below:
 
-| APAC | EMEA |
-|-------|------|
+| Americas | APAC | EMEA |
+|--------------------------|-----------------------------|---------------------------|
 - [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
 - [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/)
 - [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud)
