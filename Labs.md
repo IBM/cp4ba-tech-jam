@@ -19,7 +19,7 @@ To earn a badge for a specific capability, you must complete all labs for it and
 
 ## System URLs
 
-Most labs require you to access one or more systems set up specifically for the Jam. You can access the systems using the links below:
+Most labs require you to access one or more systems set up specifically for the Jam. You need get your unique credentials from [here](http://159.122.122.170:8080/UserManagement) and then access the systems using the links below:
 
 - [Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)
 - [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/)
