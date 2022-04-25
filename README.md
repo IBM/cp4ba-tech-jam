@@ -4,8 +4,8 @@ Hello and welcome to the APAC and EMEA - April 2022 edition of the IBM Cloud Pak
 
 The agenda is available here:
 
-| [Americas Agenda](/Presentations%20%26%20Recordings/Americas/April%202022/[CP4BA%20Tech%20Jam%202022.04.19]%20Americas%20Agenda.pdf) | [APAC Agenda](/Presentations%20%26%20Recordings/APAC/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.26%5D%20APAC%20Agenda.pdf) | [EMEA Agenda]() |
-| ------------------------------------------------------------ | ---------|-------|
+| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.26%5D%20APAC%20Agenda.pdf) | [EMEA Agenda]() |
+| ---------|-------|
 
 ## Labs
 
@@ -13,8 +13,8 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 
 ## Presentations and Recordings
 
-| [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/April%202022) | [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/April%202022) | [EMEA Recordings]()|
-| ------------------------------------------------------------ | -------- | ------ |
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/April%202022) | [EMEA Recordings]()|
+| -------- | ------ |
 
 A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C03BNA8A8H4) Slack channel.
 
