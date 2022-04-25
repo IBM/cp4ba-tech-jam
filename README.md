@@ -4,7 +4,7 @@ Hello and welcome to the APAC and EMEA - April 2022 edition of the IBM Cloud Pak
 
 The agenda is available here:
 
-| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.26%5D%20APAC%20Agenda.pdf) | [EMEA Agenda]() |
+| [APAC Agenda](/Presentations%20%26%20Recordings/APAC/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.26%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/EMEA/April%202022/%5BCP4BA%20Tech%20Jam%202022.04.26%5D%20EMEA%20Agenda.pdf) |
 | ---------|-------|
 
 ## Labs
