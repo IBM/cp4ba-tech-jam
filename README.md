@@ -1,6 +1,6 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and welcome to the APAC and EMEA - April 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam
+Hello and welcome to the APAC and EMEA - June 2022 edition of the IBM Cloud Pak for Business Automation Tech Jam
 
 The agenda is available here:
 
