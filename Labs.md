@@ -16,7 +16,7 @@ To earn a badge for a specific capability, you must complete all labs for it and
 | [IBM Process Mining](https://github.com/IBM/cp4ba-labs/tree/main/21.0.2/Process%20Mining) | 2 |       3 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-process-mining-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9355) |
 | [IBM Robotic Process Automation](https://github.com/IBM/cp4ba-labs/tree/main/21.0.2/Robotic%20Process%20Automation) | 2 |      3-4 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-robotic-process-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9356) |
 | [Workflow](https://github.com/IBM/cp4ba-labs/tree/main/21.0.2/Workflow) | 2 |      5-6 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) |
-| [Bring-Up](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) |
+| [Bring-Up](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up)*<br />*This lab is currently being worked on and is not ready yet. | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) |
 
 ## System URLs
 
