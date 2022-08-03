@@ -38,19 +38,13 @@ To access the systems in the Jam ROKS cluster, you will need a username and pass
 
 Most labs require you to access one or more systems set up specifically for the Jam. You need get your unique credentials from [here](http://159.122.122.170:8080/UserManagement) and then access the systems using the links below:
 
-[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)
-
-[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)
-
-[ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)
-
-[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc)
-
-[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce)
-
-[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)
-
-[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)
+[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
+[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
+[ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
+[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc)  
+[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce)  
+[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)  
+[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)  
 <!--
 |APAC & Americas|EMEA|Americas 2 (Backup)|
 |---------|--------|--------|
