@@ -25,13 +25,13 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby-gcg](https://ibm-cloudpak-partners.slack.com/archives/C03R5HCUK3Q) Slack channel.
+A link to the recordings made during the Jam will be shared in the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X) Slack channel.
 
 ## Support
 
-For any general questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby-gcg](https://ibm-cloudpak-partners.slack.com/archives/C03R5HCUK3Q) Slack channel.
+For any general questions, comments and feedback please go to the [#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X) Slack channel.
 
-For lab specific questions, please use the #cp4ba-tech-jam-\<capability\>-gcg specific channels.  
+For lab specific questions, please use the #cp4ba-tech-jam-\<capability\> specific channels.  
 
 ## Survey
 
