@@ -4,12 +4,12 @@ Hello and welcome to the GCG - August 2022 edition of the IBM Cloud Pak for Busi
 
 The agenda is available here:
 
- [GCG Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/August%202022/%5BCP4BA%20Tech%20Jam%202022.08.09%5D%20GCG%20Agenda.pdf) 
- 
 <!--
+ [GCG Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/August%202022/%5BCP4BA%20Tech%20Jam%202022.08.09%5D%20GCG%20Agenda.pdf) 
+ -->
+
 | [APAC Agenda](/Presentations%20%26%20Recordings/APAC/June%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/June%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20%26%20Recordings/Americas/June%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
--->
 
 ## Labs
 
