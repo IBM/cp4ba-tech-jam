@@ -38,6 +38,7 @@ To access the systems in the Jam ROKS cluster, you will need a username and pass
 
 Most labs require you to access one or more systems set up specifically for the Jam. You need get your unique credentials from [here](http://159.122.122.170:8080/UserManagement) and then access the systems using the links below:
 
+<!--
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
 [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
@@ -46,7 +47,8 @@ Most labs require you to access one or more systems set up specifically for the 
 [IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)  
 [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)  
 [CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)
-<!--
+-->
+
 |APAC & Americas|EMEA|Americas 2 (Backup)|
 |---------|--------|--------|
 |[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|
@@ -55,4 +57,4 @@ Most labs require you to access one or more systems set up specifically for the 
 |[IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/)|[IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud)|[IBM Business Performance Center (BPC)](https://bai-bpc-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)|
 |[IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/acce)|[IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/acce)|[IBM Content Platform Engine ACCE](https://cpe-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/acce)|
 |[IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)|[IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/content-services-graphql)|[IBM Content Services GraphQL](https://graphql-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/content-services-graphql)|
--->
+
