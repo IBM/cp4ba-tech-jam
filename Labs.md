@@ -49,7 +49,7 @@ Most labs require you to access one or more systems set up specifically for the 
 [CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)
 -->
 
-|APAC & Americas|EMEA|Americas 2 (Backup)|
+|APAC|EMEA|Americas|
 |---------|--------|--------|
 |[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://navigator-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/navigator?desktop=ClientOnboarding)|
 |[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)|[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/zen/#/homepage)|[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-6-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/)|
