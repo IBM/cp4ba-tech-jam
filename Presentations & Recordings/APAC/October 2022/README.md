@@ -1,0 +1,3 @@
+## Recordings
+
+The presentations and recordings made during the Jam will be shared in [here](https://ibm.box.com/v/TechJam-October).
