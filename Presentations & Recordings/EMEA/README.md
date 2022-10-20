@@ -1,3 +1,3 @@
 Please select the event time:
 
-- [June 2022](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/June%202022)
+- [October 2022](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/October%202022)
