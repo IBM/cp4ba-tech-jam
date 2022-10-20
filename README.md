@@ -4,7 +4,7 @@ Hello and welcome to the October 2022 edition of the IBM Cloud Pak for Business 
 
 The agenda is available here:
 
-| [APAC Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/October%202022/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20-APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/June%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20%26%20Recordings/Americas/June%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20Americas%20Agenda.pdf) |
+| [APAC Agenda](https://github.com/IBM/cp4ba-tech-jam/blob/main/Presentations%20%26%20Recordings/APAC/October%202022/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20-APAC%20Agenda.pdf) | [EMEA Agenda](/Presentations%20%26%20Recordings/EMEA/October%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Presentations%20%26%20Recordings/Americas/October%202022/%5BCP4BA%20Tech%20Jam%202022.06.28%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Labs
@@ -13,7 +13,7 @@ You can [access the labs, system URLs, login instructions and badges here](/Labs
 
 ## Presentations and Recordings
 
-| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/October%202022) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/June%202022) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/June%202022) |
+| [APAC Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/APAC/October%202022) | [EMEA Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/EMEA/October%202022) | [Americas Recordings](https://github.com/IBM/cp4ba-tech-jam/tree/main/Presentations%20%26%20Recordings/Americas/October%202022) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
