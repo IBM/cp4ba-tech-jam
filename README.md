@@ -11,6 +11,8 @@ The **Agenda** is available here, please select the one for your geo:
 
 You can access the **labs**, **system URLs**, **login instructions** and **badges** **[here](/Labs.md)**. You can select the capability you are interested to learn more about on that page.
 
+You have missed the introduction session or still do not know how to get started? In this case, review first the **[How to Get Started with CP4BA Tech Jam](/Agenda/How to Get Started with CP4BA Tech Jam.pdf)** presentation.
+
 ## Presentations and Recordings
 
 A link to the **presentations and recordings** made during the Jam will be shared in the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)** Slack channel.
