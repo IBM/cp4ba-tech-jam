@@ -6,6 +6,8 @@ The table below lists all **CP4BA capabilities** that we currently have labs for
 
 To **earn a badge** for a specific capability, you must complete all labs for it and answer the **Quiz** linked in the table below.
 
+In case you have **questions or issues related to a speciffic capability**, use the **Slack Channel** linked in the table below.
+
 | Capability                                                    | Track                | Approximate Duration |       Badge                             | Slack Channel |
 | :-----------------------------------------------------------: | :------------------: | :------------------: | :---------------------------------- | :---------------------------------- |
 | [IBM Cloud Pak for Business Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/IBM%20Cloud%20Pak%20for%20Business%20Automation%20(End-to-End)) (End-to-End Demo) | 1 |       2 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9353) | [#cp4ba-tech-jam-e2e](https://ibm-cloudpak-partners.slack.com/archives/C046U4PGU8J) |
