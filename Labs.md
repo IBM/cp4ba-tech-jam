@@ -2,9 +2,9 @@
 
 ## Overview
 
-The table below lists all capabilities that we currently have labs for. A capability may contain one or more labs depending on the complexity. It is recommended that during the Jam, you prioritize the capabilities that you are interested in. **You don't have to perform the labs in a specific order**.
+The table below lists all CP4BA capabilities that we currently have labs for. A capability may contain one or more labs depending on the complexity. It is recommended that during the Jam, you prioritize the capabilities that you are interested in. **You don't have to perform the labs in a specific order**.
 
-To earn a badge for a specific capability, you must complete all labs for it and answer the quiz linked in the table below.
+To **earn a badge** for a specific capability, you must complete all labs for it and answer the **Quiz** linked in the table below.
 
 | Capability                                                    | Track                | Approximate Duration |       Badge                             | Slack Channel |
 | :-----------------------------------------------------------: | :------------------: | :------------------: | :---------------------------------- | :---------------------------------- |
