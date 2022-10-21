@@ -47,9 +47,13 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 To **access the System URLs** listed below, you will first need a **username and password**. You can retrieve your unique credentials **[here](http://159.122.122.170:8080/UserManagement)**.
 
+Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)**.
+
 ## System URLs
 
-Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**:
+Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. Please only access the ones for the **geography you registered**, you Login Credentials will only work there.
+
+Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)**.
 
 <!--
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
