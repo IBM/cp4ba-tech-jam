@@ -36,4 +36,4 @@ If you want to **setup your own ROKS cluster with the Client Onboarding scenario
 1. [Install IBM Cloud Pak for Business Automation on a ROKS cluster](https://github.com/IBM/cp4ba-rapid-deployment)
 2. [Import the Client Onboarding scenario](https://github.com/IBM/cp4ba-client-onboarding-scenario)
 
-Enjoy our CP4BA Tech Jam!
+**Enjoy our October 2022 CP4BA Tech Jam!**
