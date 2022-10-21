@@ -2,14 +2,14 @@
 
 Hello and welcome to the October 2022 edition of the IBM Cloud Pak for Business Automation Tech Jams! This Tech Jam is happening in three geos in parallel, so please select below the geo where you are attending.
 
-The agenda is available here:
+The **Agenda** for your geo is available here:
 
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Labs
 
-You can [access the labs, system URLs, login instructions and badges here](/Labs.md). You can select the capability you are interested to learn more about on that page.
+You can access the **labs, system URLs, login instructions and badges** [here](/Labs.md). You can select the capability you are interested to learn more about on that page.
 
 ## Presentations and Recordings
 
