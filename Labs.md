@@ -49,7 +49,7 @@ To **access the System URLs** listed below, you will first need a **username and
 
 ## System URLs
 
-Most labs require you to **access one or more systems** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the systems using the links below**:
+Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**:
 
 <!--
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
