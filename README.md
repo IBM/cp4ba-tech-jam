@@ -25,7 +25,7 @@ For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>*
 
 At the end of the Jam, please take 5 minutes to **complete the survey**. This will help us for future Jams as well as get feedback on the different capabilities.
 
-You can **access** the survey [**here](https://www.surveymonkey.com/r/CP4BATechJam2022)** or use the **QR code** below:
+You can **access** the survey **[here](https://www.surveymonkey.com/r/CP4BATechJam2022)** or use the **QR code** below:
 
 ![Survey QR Code](survey-qrcode.png)
 
