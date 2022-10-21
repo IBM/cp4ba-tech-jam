@@ -6,7 +6,7 @@ The table below lists all **CP4BA capabilities** that we currently have labs for
 
 To **earn a badge** for a specific capability, you must complete all labs for it and answer the **Quiz** linked in the table below.
 
-In case you have **questions or issues related to a speciffic capability**, use the **Slack Channel** linked in the table below.
+In case you have **questions or issues related to a speciffic capability lab**, use the **Slack Channel** linked in the table below.
 
 | Capability                                                    | Track                | Approximate Duration |       Badge                             | Slack Channel |
 | :-----------------------------------------------------------: | :------------------: | :------------------: | :---------------------------------- | :---------------------------------- |
