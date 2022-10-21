@@ -19,7 +19,7 @@ A link to the **presentations and recordings** made during the Jam will be share
 
 For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)** Slack channel.
 
-For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>** specific channels.  
+For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
 
 ## Survey
 
