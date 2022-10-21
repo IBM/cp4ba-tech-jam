@@ -51,7 +51,7 @@ Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main
 
 ## System URLs
 
-Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. Please only access the ones for the **geography you registered**, you Login Credentials will only work there.
+Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. Please only access the ones for the **geography you registered**, your Login Credentials will only work there.
 
 Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)**.
 
