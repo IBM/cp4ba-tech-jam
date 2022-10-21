@@ -1,6 +1,6 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and Welcome to the **October 2022 edition** of the IBM Cloud Pak for Business Automation Tech Jams. This CP4BA Tech Jam is happening in three geographies in parallel, with more than 300 participants world-wide!
+Hello and Welcome to the **October 2022 edition** of the IBM Cloud Pak for Business Automation Tech Jams. This CP4BA Tech Jam is happening in **three geographies** in parallel, with more than **300 participants** world-wide!
 
 The **Agenda** is available here, please select the one for your geo:
 
