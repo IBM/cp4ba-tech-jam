@@ -6,8 +6,8 @@ The table below lists all capabilities that we currently have labs for. A capabi
 
 To earn a badge for a specific capability, you must complete all labs for it and answer the quiz linked in the table below.
 
-| Capability                                                   | Track                                              | Approximate Duration |                            Badge                             |
-| :----------------------------------------------------------- | :------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| Capability                                                    | Track                | Approximate Duration |       Badge                             | Slack Channel |
+| :-----------------------------------------------------------: | :------------------: | :------------------: | :---------------------------------- |
 | [IBM Cloud Pak for Business Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/IBM%20Cloud%20Pak%20for%20Business%20Automation%20(End-to-End)) (End-to-End) | 1 |       2 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9353) |
 | [IBM Business Automation Application](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Application) | 2 |      2-3 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-application-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9357) |
 | [IBM Business Automation Insights](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Insights) | 2 |        1 hour        |                              -                               |
