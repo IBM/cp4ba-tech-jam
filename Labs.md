@@ -55,7 +55,7 @@ Most labs require you to **access one or more System URLs** set up specifically 
 
 Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C0476PD1T5X)**.
 
-<!--
+
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
 [ADS ML Service](http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
@@ -64,8 +64,9 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 [IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)  
 [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html) 
 [CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-gcg-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)
--->
+[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.au-syd.containers.appdomain.cloud/icn/navigator/?desktop=ICN)
 
+<!--
 |APAC|EMEA|Americas|
 |---------|--------|--------|
 |[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.au-syd.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)|[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)|
@@ -76,3 +77,4 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 |[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.au-syd.containers.appdomain.cloud/processmining/index.html)|[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/processmining/index.html)|[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-amer-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/processmining/index.html)|
 |[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.au-syd.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)|[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)|[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)|
 |[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-464887bc828751e1b00625ca9211fbca-0000.au-syd.containers.appdomain.cloud/icn/navigator/?desktop=ICN)|[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ICN)|[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ICN)|
+-->
