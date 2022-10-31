@@ -1,6 +1,6 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and Welcome to the **November 2022 edition India** of the IBM Cloud Pak for Business Automation Tech Jams. 
+Hello and Welcome to the **November 2022 edition - India** of the IBM Cloud Pak for Business Automation Tech Jam. 
 
 The **Agenda** is available here, please select the one for your geo:
 
