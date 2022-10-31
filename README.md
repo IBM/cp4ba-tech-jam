@@ -5,7 +5,7 @@ Hello and Welcome to the **November 2022 edition India** of the IBM Cloud Pak fo
 The **Agenda** is available here, please select the one for your geo:
 
 [India Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20India%20Agenda.pdf)  
-<--
+<!--
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 -->
