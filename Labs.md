@@ -57,14 +57,14 @@ Most labs require you to **access one or more System URLs** set up specifically 
 Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
 
 
-[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
-[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)    
-[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc)  
-[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce)  
-[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql)  
-[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)   
-[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=CLOS)  
-[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-india-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ICN)  
+[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
+[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)    
+[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc/)  
+[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce/)  
+[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql/)  
+[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)   
+[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)  
+[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
 
 <!--
 |APAC|EMEA|Americas|
