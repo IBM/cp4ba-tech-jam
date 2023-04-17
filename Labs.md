@@ -49,7 +49,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 ## Login Credentials
 
-To **access the System URLs** listed below, you will first need a **username and password**. You can retrieve your unique credentials **[here](http://jam-usermanagement-default.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement)**.
+To **access the System URLs** listed below, you will first need a **username and password**. You can retrieve your unique credentials **[here](http://jam-usermanagement-jam-usrmgt.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement/)**.
 
 Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
 
