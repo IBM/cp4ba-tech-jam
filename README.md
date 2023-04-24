@@ -1,8 +1,8 @@
 # IBM Cloud Pak for Business Automation Tech Jam
 
-Hello and Welcome to the **April 2023 edition - Americas** of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and Welcome to the **April 2023 edition - EMEA** of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The **Agenda** is available **[here](/Agenda/%5BCP4BA%20Tech%20Jam%202023.04.18%5D%20Americas%20Agenda.pdf)**  
+The **Agenda** is available **[here](/Agenda/%5BCP4BA%20Tech%20Jam%202023.04.25%5D%20EMEA%20Agenda.pdf)**  
 <!--
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
