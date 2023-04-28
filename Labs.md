@@ -63,7 +63,7 @@ Most labs require you to **access one or more System URLs** set up specifically 
 
 Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
 
-
+<!--
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/)  
 [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/bai-bpc/)  
@@ -72,6 +72,7 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 [IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/processmining/index.html)  
 [CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)  
 [ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
+-->
 
 <!--
 |APAC|EMEA|Americas|
