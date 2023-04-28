@@ -51,11 +51,13 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 | [Bring-Up](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) |
 -->
 
+<!--
 ## Login Credentials
 
 To **access the System URLs** listed below, you will first need a **username and password**. You can retrieve your unique credentials **[here](http://jam-usermanagement-jam-usermanagement.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/UserManagement/)**.
 
 Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
+-->
 
 <!--
 ## System URLs
