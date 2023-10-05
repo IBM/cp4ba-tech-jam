@@ -17,11 +17,11 @@ If you missed the introductory session and do not know how to get started, pleas
 
 ## Presentations and Recordings
 
-A link to the **presentations and recordings** made during the Jam will be shared in the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)** Slack channel.
+A link to the **presentations and recordings** made during the Jam will be shared in the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)** Slack channel.
 
 ## Support
 
-For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)** Slack channel.
+For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby]([https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5))** Slack channel.
 
 For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
 
