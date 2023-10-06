@@ -6,22 +6,25 @@ The table below lists all **CP4BA capabilities** that we currently have labs for
 
 To **earn a badge** for a specific capability, you must complete all labs for it and answer the **Quiz** linked in the table below.
 
-In case you have **questions or issues related to a speciffic capability lab**, use the **Slack Channel** linked in the table below. For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)** Slack channel.
+In case you have **questions or issues related to a speciffic capability lab**, use the **Slack Channel** linked in the table below. For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)** Slack channel.
 
 | Capability                                                    | Track                | Approximate Duration |       Badge                             | Slack Channel |  Survey |
 | :-----------------------------------------------------------: | :------------------: | :------------------: | :---------------------------------- | :-------------------------------------- | ------------- |
-| [IBM Cloud Pak for Business Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/IBM%20Cloud%20Pak%20for%20Business%20Automation%20(End-to-End)) (End-to-End Demo) | 1 |       2 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9353) | [#cp4ba-tech-jam-e2e](https://ibm-cloudpak-partners.slack.com/archives/C04U54ZQ6VA) |[E2E Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-e2e) |
-| [IBM Business Automation Application](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Application) | 2 |      2-3 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-application-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9357) | [#cp4ba-tech-jam-baa](https://ibm-cloudpak-partners.slack.com/archives/C04USAY9072) | [BAA Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-baa) |
-| [IBM Business Automation Insights](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Insights) | 2 |        1 hour        |                              -                               | [#cp4ba-tech-jam-bai](https://ibm-cloudpak-partners.slack.com/archives/C04TW2LGPU6) | [BAI Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-bai) |
-| [IBM FileNet Content Manager](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Content) | 2 |      4.5-7 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-filenet-content-manager-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9358) | [#cp4ba-tech-jam-content](https://ibm-cloudpak-partners.slack.com/archives/C04U54SNQ6Q) |[FNCM Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-fncm) |
-| [IBM Automation Decision Services](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Decisions) | 2 |       3 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-decision-services-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9416) | [#cp4ba-tech-jam-decisions](https://ibm-cloudpak-partners.slack.com/archives/C04TZNF6ULD) | [ADS Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-ads) |
+| [IBM Cloud Pak for Business Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/IBM%20Cloud%20Pak%20for%20Business%20Automation%20(End-to-End)) (End-to-End Demo) | 1 |       2 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9353) | [#cp4ba-tech-jam-e2e](https://ibm-cloudpak-partners.slack.com/archives/C05VA4UR3DK) |[E2E Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-e2e) |
+| [IBM Business Automation Application](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Application) | 2 |      2-3 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-application-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9357) | [#cp4ba-tech-jam-baa](https://ibm-cloudpak-partners.slack.com/archives/C05VCUVJCEP) | [BAA Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-baa) |
+| [IBM Business Automation Insights](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Business%20Automation%20Insights) | 2 |        1 hour        |                              -                               | [#cp4ba-tech-jam-bai](https://ibm-cloudpak-partners.slack.com/archives/C05UYG2DH39) | [BAI Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-bai) |
+| [IBM FileNet Content Manager](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Content) | 2 |      4.5-7 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-filenet-content-manager-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9358) | [#cp4ba-tech-jam-content](https://ibm-cloudpak-partners.slack.com/archives/C0601FRUKEG) |[FNCM Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-fncm) |
+| [IBM Automation Decision Services](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Decisions) | 2 |       3 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-decision-services-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9416) | [#cp4ba-tech-jam-decisions](https://ibm-cloudpak-partners.slack.com/archives/C0601FT2X1A) | [ADS Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-ads) |
 | [IBM Process Mining](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Process%20Mining) | 2 |       3 hours        | [Badge](https://www.credly.com/org/ibm/badge/ibm-process-mining-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9355) | [#cp4ba-tech-jam-process-mining](https://ibm-cloudpak-partners.slack.com/archives/C04TZNDJ8SH) | [PM Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-pm) |
-| [IBM Robotic Process Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Robotic%20Process%20Automation) | 2 |      3-4 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-robotic-process-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9356) | [#cp4ba-tech-jam-rpa](https://ibm-cloudpak-partners.slack.com/archives/C04UF9JGQ3B) | [RPA Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-rpa) |
-| [IBM Business Automation Workflow](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Workflow) | 2 |      5-6 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) | [#cp4ba-tech-jam-workflow](https://ibm-cloudpak-partners.slack.com/archives/C04U2LYH69Y) | [BAW Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-baw) |
-| [IBM Automation Document Processing](https://github.com/IBM/cp4ba-labs/tree/main/22.0.2/Document%20Processing) | 2 | 4-6 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-document-processing-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=12413) |[#cp4ba-tech-jam-capture](https://ibm-cloud.slack.com/archives/C04U2GRF2UT) |[ADP Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-adp) |
+| [IBM Robotic Process Automation](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Robotic%20Process%20Automation) | 2 |      3-4 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-robotic-process-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9356) | [#cp4ba-tech-jam-rpa](https://ibm-cloudpak-partners.slack.com/archives/C060N2G7K40) | [RPA Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-rpa) |
+| [IBM Business Automation Workflow](https://github.com/IBM/cp4ba-labs/tree/main/22.0.1/Workflow) | 2 |      5-6 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) | [#cp4ba-tech-jam-workflow](https://ibm-cloudpak-partners.slack.com/archives/C0601FX245S) | [BAW Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-baw) |
+| [IBM Automation Document Processing](https://github.com/IBM/cp4ba-labs/tree/main/22.0.2/Document%20Processing) | 2 | 4-6 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-document-processing-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=12413) |[#cp4ba-tech-jam-adp](https://ibm-cloudpak-partners.slack.com/archives/C05UYG66L7R) |[ADP Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-adp) |
+| [IBM watsonx Orchestrate](https://github.com/IBM/cp4ba-labs/tree/main/22.0.2/Document%20Processing) | 2 | 4-6 hours | Badge \| Quiz|[#cp4ba-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) |[wxO Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-wxo) |
+
+<!--
 | [IBM CP4BA - Bring-up Lab](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-installation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) | [#cp4ba-tech-jam-bring-up](https://ibm-cloud.slack.com/archives/C04TW2N8GTY) | [Bring-up Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-bring-up) |
 
-
+-->
 
 
 <!--
@@ -56,7 +59,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 To **access the System URLs** listed below, you will first need a **username and password**. You can retrieve your unique credentials **[here](http://jam-usermanagement-jam-usermanagement.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/UserManagement/)**.
 
-Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
+Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5))**.
 -->
 
 <!--
@@ -64,7 +67,7 @@ Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main
 
 Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. 
 
-Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C04TN4Y3PCP)**.
+Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)**.
 -->
 
 <!--
