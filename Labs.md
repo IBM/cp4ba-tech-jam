@@ -71,14 +71,16 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 -->
 
 <!--
-[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
-[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/)  
-[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/bai-bpc/)  
-[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/cpe/acce/)  
-[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/content-services-graphql/)  
-[IBM Process Mining](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/processmining/index.html)  
-[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)  
-[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
+[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
+[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/)  
+[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/bai-bpc/)  
+[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/cpe/acce/)  
+[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/content-services-graphql/)  
+[CLOS Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=CLOS)  
+[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ICN)
+[IBM watsonx Orchestrate](https://dl.watson-orchestrate.ibm.com/)  
+[IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=workplace)  
+[Local Email Client]()  
 -->
 
 <!--
