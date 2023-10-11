@@ -70,7 +70,7 @@ Most labs require you to **access one or more System URLs** set up specifically 
 Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)**.
 -->
 
-<!--
+
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/)  
 [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/bai-bpc/)  
@@ -81,7 +81,7 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 [IBM watsonx Orchestrate](https://dl.watson-orchestrate.ibm.com/)  
 [IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=workplace)  
 [Local Email Client]()  
--->
+
 
 <!--
 |APAC|EMEA|Americas|
