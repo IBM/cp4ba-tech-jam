@@ -62,6 +62,7 @@ To **access the System URLs** listed below, you will first need a **username and
 Issues getting your Login Credentials? Use Slack Channel **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5))**.
 -->
 
+<!--
 ## System URLs
 
 Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. 
@@ -81,6 +82,7 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 [IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=workplace)  
 [Local Email Client]()  
 
+-->
 
 <!--
 |APAC|EMEA|Americas|
