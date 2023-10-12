@@ -19,7 +19,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 | [IBM Robotic Process Automation](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/Robotic%20Process%20Automation) | 2 | Lab Provided |      3-4 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-robotic-process-automation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9356) | [#cp4ba-tech-jam-rpa](https://ibm-cloudpak-partners.slack.com/archives/C060N2G7K40) | [RPA Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-rpa) |
 | [IBM Business Automation Workflow](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/Workflow) | 2 | CP4BA Credentials |      5-6 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) | [#cp4ba-tech-jam-workflow](https://ibm-cloudpak-partners.slack.com/archives/C0601FX245S) | [BAW Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-baw) |
 | [IBM Automation Document Processing](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/Document%20Processing) | 2 | Lab Provided | 4-6 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-document-processing-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=12413) |[#cp4ba-tech-jam-adp](https://ibm-cloudpak-partners.slack.com/archives/C05UYG66L7R) |[ADP Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-adp) |
-| [IBM watsonx Orchestrate](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/watsonx%20Orchestrate) | 2 | IBM watsonx Orchestrate Environment,<br> CP4BA Credentials | 2-3 hours | - |[#cp4ba-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) |[wxO Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-wxo) |
+| [IBM watsonx Orchestrate](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/watsonx%20Orchestrate) | 2 | watsonx Orchestrate Environment,<br><br> CP4BA Credentials | 2-3 hours | - |[#cp4ba-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) |[wxO Survey]( https://www.surveymonkey.com/r/cp4ba-tech-jam-wxo) |
 
 <!--
 | [IBM CP4BA - Bring-up Lab](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-installation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) | [#cp4ba-tech-jam-bring-up](https://ibm-cloud.slack.com/archives/C04TW2N8GTY) | [Bring-up Survey](https://www.surveymonkey.com/r/cp4ba-tech-jam-bring-up) |
@@ -60,7 +60,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 |Name       |Instructions| 
 | ------- | ------- |
 | CP4BA Credentials| Retrieve your unique credentials from [here](http://jam-usermanagement-jam-usermanagement.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement/).  Use same email provided during the TechJam registration.|
-| IBM watsonx Orchestrate Environment| Use your IBM ID.  You must register to the lab at the [#cp4ba-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) Slack channel to provide access to your IBM ID.|
+| watsonx Orchestrate Environment| Use your IBM ID.  You must register to the lab at the [#cp4ba-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) Slack channel to provide access to your IBM ID.|
 | Lab Provided | Lab guide will provide instructions on how to get credentials. |
 
 ## System URLs
