@@ -33,4 +33,4 @@ You can **access** the survey **[here](https://www.surveymonkey.com/r/CP4BATechJ
 
 ![Survey QR Code](survey-qrcode.png)
 
-**Enjoy our April 2023 CP4BA Tech Jam!**
+**Enjoy our October 2023 CP4BA Tech Jam!**
