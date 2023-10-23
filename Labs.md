@@ -78,8 +78,6 @@ Issues accessing the System URLs? Use Slack Channel **[#cp4ba-tech-jam-main-lobb
 These instructions will get updated at the end of the introduction session, you'll then find the System URLs here.
 
 <!--
--->
-
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/)  
 [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/bai-bpc/)  
@@ -89,6 +87,7 @@ These instructions will get updated at the end of the introduction session, you'
 [IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=workplace)  
 [Local Webmail Server](https://roundcubenginx-mail.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud)  
 [IBM watsonx Orchestrate](https://dl.watson-orchestrate.ibm.com/)  
+-->
 
 <!--
 |APAC|EMEA|Americas|
