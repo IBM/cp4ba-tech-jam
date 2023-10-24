@@ -81,7 +81,7 @@ These instructions will get updated at the end of the introduction session, you'
 -->
 
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
-[EMail Client / Local Webmail Server](https://roundcubenginx-mail.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud)  
+[EMail Client (previously Local Webmail Server)](https://roundcubenginx-mail.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud)  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/)  
 [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/bai-bpc/)  
 [IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-emea-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/cpe/acce/)  
