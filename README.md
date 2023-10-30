@@ -2,7 +2,7 @@
 
 Hello and Welcome to the **October 2023 edition - APAC** of the IBM Cloud Pak for Business Automation Tech Jam. 
 
-The **Agenda** is available **[here](/Agenda/%5BCP4BA%20Tech%20Jam%202023.10.24%5D%20APAC%20Agenda.pdf)**  
+The **Agenda** is available **[here](/Agenda/%5BCP4BA%20Tech%20Jam%202023.10.31%5D%20APAC%20Agenda.pdf)**  
 
 <!--
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
