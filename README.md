@@ -1,8 +1,8 @@
-# IBM Cloud Pak for Business Automation Tech Jam
+# IBM Business Automation & Digital Labor Tech Jam
 
-Hello and Welcome to the **October 2023 edition - APAC** of the IBM Cloud Pak for Business Automation Tech Jam. 
+Hello and Welcome to the **April 2024 edition - Americas** of the IBM Business Automation & Digital Labor Tech Jam. 
 
-The **Agenda** is available **[here](/Agenda/%5BCP4BA%20Tech%20Jam%202023.10.31%5D%20APAC%20Agenda.pdf)**  
+The **Agenda** is available **[here](/Agenda/%5BBA%26DL%20Tech%20Jam%202024.04.09%5D%20Americas%20Agenda.pdf)**
 
 <!--
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
@@ -17,11 +17,11 @@ If you missed the introductory session and do not know how to get started, pleas
 
 ## Presentations and Recordings
 
-A link to the **presentations and recordings** made during the Jam will be shared in the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)** Slack channel.
+A link to the **presentations and recordings** made during the Jam will be shared in the **[#badl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH))** Slack channel.
 
 ## Support
 
-For any **general questions, comments and feedback** please go to the **[#cp4ba-tech-jam-main-lobby](https://ibm-cloudpak-partners.slack.com/archives/C060BGQF8N5)** Slack channel.
+For any **general questions, comments and feedback** please go to the **[#badl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH))** Slack channel.
 
 For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
 
@@ -29,8 +29,8 @@ For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>*
 
 At the end of the Jam, please take 5 minutes to **complete the survey**. This will help us for future Jams as well as get feedback on the different capabilities.
 
-You can **access** the survey **[here](https://www.surveymonkey.com/r/CP4BATechJam2023)** or use the **QR code** below:
+You can **access** the survey **[here](https://www.surveymonkey.com/r/BADLTechJam2024))** or use the **QR code** below:
 
 ![Survey QR Code](survey-qrcode.png)
 
-**Enjoy our October 2023 CP4BA Tech Jam!**
+**Enjoy our April 2024 Business Automation & Digital Labor Tech Jam!**
