@@ -23,7 +23,7 @@ A link to the **presentations and recordings** made during the Jam will be share
 
 For any **general questions, comments and feedback** please go to the **[#badl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH))** Slack channel.
 
-For **lab specific questions**, please use the **#cp4ba-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
+For **lab specific questions**, please use the **#badl-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
 
 ## Survey
 
