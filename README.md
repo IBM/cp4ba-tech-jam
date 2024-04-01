@@ -31,6 +31,6 @@ At the end of the Jam, please take 5 minutes to **complete the survey**. This wi
 
 You can **access** the survey **[here](https://www.surveymonkey.com/r/BADLTechJam2024))** or use the **QR code** below:
 
-![Survey QR Code](survey-qrcode.png)
+![Survey QR Code](QR_code_BADLTechJam2024.png)
 
 **Enjoy our April 2024 Business Automation & Digital Labor Tech Jam!**
